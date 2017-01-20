@@ -1,6 +1,6 @@
 public class RFE_001_A{
 
   public void info(){
-    system.out.pintln("RFE_001_A");
+    system.out.pintln("OUTPUT : RFE_001_A");
     }
 }
